@@ -1,5 +1,6 @@
 ## On Demand ISR
 This repo shows the implementation of On Demand ISR strategy added to NextJS 12.1 that allows you to revalidate individual pages that use getStaticProps.
+The article for explanation of this repo is documented here https://deepinder.me/nextjs-on-demand-isr
 ## Getting Started
 
 First, run the development server:
